@@ -1,0 +1,60 @@
+body{
+    background: black;
+}
+.main{
+    border: 3px solid black;
+    width: 600px;
+    text-align: center;
+    background: cornflowerblue;
+    margin: auto;
+    margin-top: 12%;
+}
+
+
+
+
+
+#n1{
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+
+#btn{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+
+
+input[type="submit"]{
+    height: 25px;
+    width: 75px;
+    background: brown;
+    color: black;
+    font-size:medium;
+    font-weight: bold;
+    border: 0;
+    box-shadow: 5px 5px 5px black;
+}
+
+
+h1{
+    color: black;
+}
+
+
+h3{
+    color:black;
+}
+
+
+#res{
+    width: 500px;
+    height: 25px;
+    color: black;
+    margin-left: 60px;
+}
